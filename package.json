@@ -1,0 +1,27 @@
+{
+  "name": "hw-knowledge-management",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HW-knowledge-management/npm.git"
+  },
+  "keywords": [
+    "HW",
+    "Knowledge-Management",
+    "Vue"
+  ],
+  "author": "김민우,박대호,박재린,이경민",
+  "license": "MIT",
+  "bin": {
+    "hw-knowledge-management": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/HW-knowledge-management/npm/issues"
+  },
+  "homepage": "https://github.com/HW-knowledge-management/npm#readme"
+}
